@@ -11,13 +11,13 @@
 - **npm** ***(Node Package Manager)***: 
   - It is an *online repository* for the publishing of **open-source Node.js** projects, also it is a **command-line** utility for *interacting* with said repository that aids in package **installation**, **version management**, and **dependency managemen.**
 ## 4. Provide code snippets showing 3 different ways to export a function from a node module.
-            1. module.exports = literal | function | object
-            2. module.exports.variable = literal | function | object
-            3. module.exports = { 
-                 name: 'Asura', 
+ 1. module.exports = literal | function | object    
+ 2. module.exports.variable = literal | function | object    
+ 3. module.exports = {   
+                 name: 'Asura',     
                  website: 'https://www.Asura.com'
                 }   
-                
+
 
 
 ## Documenting the following Vocabulary Terms:
