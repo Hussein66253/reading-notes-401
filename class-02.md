@@ -16,9 +16,12 @@
             3. module.exports = { 
                  name: 'Asura', 
                  website: 'https://www.Asura.com'
-                } 
+                }   
+                
+
+
 ## Documenting the following Vocabulary Terms:
-**Term**  | **Documenting**
+**Term**  | **Documenting** 
   -------------  | -------------
   *ecosystem:* | The JavaScript ecosystem is a collection of software packages, libraries, and other resources that facilitate development as they integrate with each other     
   *Node.js*  |  it  is an open source development platform for executing JavaScript code server-side, Node.js applications are event-based and run asynchronously
