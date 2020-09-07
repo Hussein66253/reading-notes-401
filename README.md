@@ -8,3 +8,5 @@
   *class 01* | [link](https://hussein66253.github.io/reading-notes-401/class-01)
   *Engineering Topics* | [link](https://hussein66253.github.io/reading-notes-401/engTopics)
   *class 02* | [link](https://hussein66253.github.io/reading-notes-401/class-02)
+  *class 03* | [link](https://hussein66253.github.io/reading-notes-401/class-03)
+
