@@ -23,4 +23,4 @@ and stored procedures. It provides a clear picture of the base data and can be u
  - **Mongoose**: Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
  - **Record**: Is composed of fields and contains all the data about one particular item in a database.
  - **document**: A document database is a type of nonrelational database that is designed to store and query data as JSON-like documents.
- - **Object Relation Mapping (ORM**): is a programming technique for converting data between incompatible type systems using object-oriented programming languages.
+ - **Object Relation Mapping (ORM)**: is a programming technique for converting data between incompatible type systems using object-oriented programming languages.
