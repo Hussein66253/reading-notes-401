@@ -2,18 +2,17 @@
 - A data model helps design the database at the conceptual, physical and logical levels.
  Data Model structure helps to define the relational tables, primary and foreign keys 
 and stored procedures. It provides a clear picture of the base data and can be used by database developers to create a physical database.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ## What purpose do CRUD operations serve?
  - The ability to create, read, update and delete items in a web application is crucial to most full stack projects.
  CRUD is too important to be ignored, so learning it first can really improve confidence within unfamiliar stacks
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## What kind of database is Postgres? What kind of database is MongoDB? 
  1. PostgreSQL is a powerful, open source object-relational database system
 2. MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program   
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## What is Mongoose and why do we need it?
 - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. ... It manages relationships between data, provides schema validation
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## TERMS:
  - **Database**: its a place to hold and organize data inside it.
  - **data model**: the model which organized the element of data.
