@@ -24,4 +24,3 @@ and stored procedures. It provides a clear picture of the base data and can be u
  - **Record**: Is composed of fields and contains all the data about one particular item in a database.
  - **document**: A document database is a type of nonrelational database that is designed to store and query data as JSON-like documents.
  - **Object Relation Mapping (ORM**): is a programming technique for converting data between incompatible type systems using object-oriented programming languages.
---------------
