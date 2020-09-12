@@ -1,5 +1,6 @@
 # linked list
- ## What is the use of a linked list?
+
+## What is the use of a linked list?
 - Linked lists are linear data structures that hold data in individual objects called **nodes**. These nodes hold both the **data** and a **reference** to the next node in the list. Linked .
 - **The first** and **last node** of a linked list usually are called the **head** and **tail** of the list, we can traverse the list *starting* at the ***head*** and *ending* at the **tail**. 
 - The **tail node** is a special node, where the **next pointer** is always pointing or linking to a ***null*** reference, indicating **the end of the list**.
