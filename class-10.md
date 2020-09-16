@@ -23,9 +23,8 @@
   4. **Pop O(1)**   
 
      - Popping a Node off a stack is the action of removing a Node from the top. When conducting a pop, the top Node will be re-assigned to the Node that lives below and the top Node is returned to the user.     
-     
-   5. **Peek O(1)** 
 
+   5. **Peek O(1)**     
      - When conducting a peek,you will only be inspecting the top Node of the stack.
 ## What is a Queue: 
 
