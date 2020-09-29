@@ -24,4 +24,5 @@
   *class 16* | [link](https://hussein66253.github.io/reading-notes-401/class-16)
   *class 17* | [link](https://hussein66253.github.io/reading-notes-401/class-17)
   *class 18* | [link](https://hussein66253.github.io/reading-notes-401/class-18)
+  *class 19* | [link](https://hussein66253.github.io/reading-notes-401/class-19)
 
