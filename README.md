@@ -28,3 +28,4 @@
   *class 26* | [link](https://hussein66253.github.io/reading-notes-401/class-26)
   *class 27* | [link](https://hussein66253.github.io/reading-notes-401/class-27)
   *class 28* | [link](https://hussein66253.github.io/reading-notes-401/class-28)
+  *class 29* | [link](https://hussein66253.github.io/reading-notes-401/class-29)

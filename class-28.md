@@ -5,13 +5,15 @@
 
  - `import { Route } from 'react-router-dom';`
 
- - To use Browser Router properly, you eliminate your use of `<a>` tags and instead use it’s built-in `<Link>` component.
+ - To use Browser Router properly, you eliminate your use of `<a>` tags and instead use it’s built-in `<Link>` component.   
+
 ```
 <Link to="/">Home</Link>
 <Link to="/stuff">Stuff</Link>
-```
+``` 
 
- - In practice, then, use the router component to look at either / or /stuff and based on that, displaying either the Home or the List component…
+ - In practice, then, use the router component to look at either / or /stuff and based on that, displaying either the Home or the List component…   
+ 
 
 ```
 <Route exact path="/" component={Home} />
