@@ -1,13 +1,27 @@
-## React State
-- React components has a built-in state object.
-- The state object is where you store property values that belongs to the component.
-- When the state object changes the component re-renders.
+# Component Composition
 
-## Component Composition
-- Routing is the process of keeping the browser URL in sync with what’s being rendered on the page. 
-- React Router lets you handle routing declaratively & the react-router is a package provides the core routing functionality for React Router.
-- All React components have a special children prop so that consumers can pass components directly by nesting them inside the jsx.
-- This prop can be used by a tab content component to accept the actual content without needing to know anything else about it.
+## Routing
+ - Using `react-router`, you can easily toggle the visibility of components (or even pages) based on the URL/Route that the user engages with.
 
-## What even is ‘children’?
-- it is used to display whatever you include between the opening and closing tags when invoking a component.
+ - `import { Route } from 'react-router-dom';`
+
+ - To use Browser Router properly, you eliminate your use of `<a>` tags and instead use it’s built-in `<Link>` component.   
+
+```
+<Link to="/">Home</Link>
+<Link to="/stuff">Stuff</Link>
+``` 
+
+ - In practice, then, use the router component to look at either / or /stuff and based on that, displaying either the Home or the List component…   
+ 
+
+```
+<Route exact path="/" component={Home} />
+<Route exact path="/stuff" render={() => <List>{items}</List>} />
+```
+
+## React’s props.children
+
+ - The React docs say that you can use props.children on components that represent ‘generic boxes’ and that ‘don’t know their children ahead of time’. For me, that didn’t really clear things up. I’m sure for some, that definition makes perfect sense but it didn’t for me.
+ - My simple explanation of what this.props.children does is that it is used to display whatever you include between the opening and closing tags when invoking a component.
+
