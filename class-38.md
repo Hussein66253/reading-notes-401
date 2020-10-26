@@ -9,7 +9,7 @@
 - The most common use-case for Redux Thunk is for communicating asynchronously with an external API to retrieve or save data.
 - Redux Thunk makes it easy to dispatch actions that follow the lifecycle of a request to an external API.
 
-## React Suspense
+### React Suspense
 - Suspense is a new React feature that was announced recently at the JSConf Conference in Iceland. 
 - It aims to help with handling async operations respectively in regard to CPU power and data fetching.
 - Suspense allows you to defer rendering part of your application tree until some condition is met (for example, data from an endpoint or a resource is loaded).
