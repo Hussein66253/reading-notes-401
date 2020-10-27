@@ -37,4 +37,5 @@
   *class 35* | [link](https://hussein66253.github.io/reading-notes-401/class-35)  
   *class 36* | [link](https://hussein66253.github.io/reading-notes-401/class-36)  
   *class 37* | [link](https://hussein66253.github.io/reading-notes-401/class-37)  
-  *class 38* | [link](https://hussein66253.github.io/reading-notes-401/class-38)
+  *class 38* | [link](https://hussein66253.github.io/reading-notes-401/class-38)  
+  *class 39* | [link](https://hussein66253.github.io/reading-notes-401/class-39)
