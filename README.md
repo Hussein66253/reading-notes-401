@@ -40,3 +40,4 @@
   *class 38* | [link](https://hussein66253.github.io/reading-notes-401/class-38)  
   *class 39* | [link](https://hussein66253.github.io/reading-notes-401/class-39)  
   *class 41* | [link](https://hussein66253.github.io/reading-notes-401/class-41)
+  *class 43* | [link](https://hussein66253.github.io/reading-notes-401/class-43)
